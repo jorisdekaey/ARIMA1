@@ -12,10 +12,10 @@ the result of a fit has the following attributes
 
 the result of a fint has the following functions
 - plot_diagnostics():  analysis to show the forecast residuals behave like white noise 
-    - plot of forecast residuals over time
+    - plot of forecast residuals over time to show there is no trend
     - histogram of forecast residuals with KDE-density and N(0,1)-density as reference
-    - QQ-plot to compare quantiles of residuals with N(0,1)-quantiles 
-    - Correlogram to visualise autocorrelation of residuals
+    - QQ-plot to compare quantiles of forecast residuals with N(0,1)-quantiles 
+    - Correlogram to visualise autocorrelation of forecast residuals
 
 
 
