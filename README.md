@@ -10,7 +10,7 @@ the result of a fit has the following attributes
 - AIC: Akaike Information Criterion
 - BIC: Bayes Information Criterion 
 
-the result of a fint has the following functions
+the result of a fit has the following functions
 - plot_diagnostics():  analysis to show the forecast residuals behave like white noise 
     - plot of forecast residuals over time to show there is no trend
     - histogram of forecast residuals with KDE-density and N(0,1)-density as reference
